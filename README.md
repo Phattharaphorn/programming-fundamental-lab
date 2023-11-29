@@ -1,7 +1,7 @@
 # Programming Fundamental - Lab
 Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 
-- This repository is a collection of programs for creating text-mode games that often use libraries or functions related to text-based screen controls. Without using any graphics, these types of games often use the C++ programming language, as this language is highly efficient and suitable for text processing. There is no need for complex graphics Examples of how to use this function include iostream etc. 
+- This repository is a collection of C++ text-mode game programs that use libraries for text-based screen controls.
 
 ## List all lab in class  
 - [Lab 4 Test & Debugging](lab-4)
