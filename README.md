@@ -1,3 +1,8 @@
+<p align="center">
+ <img src="https://media.giphy.com/media/qPa9vUYCUrx6w/giphy.gif" alt="Arduino gif"/>
+</p>
+
+
 # Programming Fundamental - Lab
 Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 
