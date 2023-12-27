@@ -5,7 +5,7 @@
 # Programming Fundamental - Lab
 Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 
-- This repository is a collection of **C++** **text-mode** **game** programs that use **libraries** **for** **text-based** **screen** **controls**. These programs are typically used for education and training in object-oriented programming, and they **can** **be** **played** **on** **any** **device**.
+- This repository is a collection developed in **C++** about **text-mode** **game** programs that use **libraries** **for** **text-based** **screen** **controls**. These programs are typically used object-oriented programming, and they **can** **be** **played** **on** **any** **device**.
 
 ## List all the lab - assignment 
 - [Lab 4 Test & Debugging](lab-4)  
